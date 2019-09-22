@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Welcome to Gwen's Blog~
-lang: en
+lang: en-GB
 sidebar:
 nav: layouts
 ---
